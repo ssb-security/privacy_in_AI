@@ -1,4 +1,4 @@
-# # Privacy in AI — Comparative Regulation Analysis
+# Privacy in AI — Comparative Regulation Analysis
 **Regions Compared:** European Union · United States · Canada  
 **Frameworks Examined:** EU AI Act · US AI Bill of Rights · Canada's AIDA (Bill C-27)  
 **Authors:** Aditi Venkatesh, Shreya Bhoje — University of Guelph  
