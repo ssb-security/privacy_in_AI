@@ -20,7 +20,7 @@
 
 ## Executive Summary
 
-As AI adoption accelerates globally, three major regulatory frameworks have emerged in the EU, US, and Canada to govern how AI systems collect, process, and use personal data. This analysis performs a structured comparison across three categories — transparency & explainability, data protection, and automated decision-making — to surface gaps in Canada's Artificial Intelligence and Data Act (AIDA).
+As AI adoption accelerates globally, three major regulatory frameworks have emerged in the EU, US, and Canada to govern how AI systems collect, process, and use personal data. This analysis performs a structured comparison across three categories: transparency & explainability, data protection, and automated decision-making, to surface gaps in Canada's Artificial Intelligence and Data Act (AIDA).
 
 **Core finding:** The US AI Bill of Rights is the most comprehensive of the three. The EU AI Act has a refined risk-classification approach but leaves gaps in interpretability and data protection. Canada's AIDA, while a significant first step as the country's inaugural AI legislation, has the most significant gaps across all three categories.
 
